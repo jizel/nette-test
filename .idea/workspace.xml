@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf0bf54e-6db4-444b-a653-7b32f49de33c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/nette/http" />
+      <path value="$PROJECT_DIR$/vendor/nette/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/nette/neon" />
+      <path value="$PROJECT_DIR$/vendor/nette/mail" />
+      <path value="$PROJECT_DIR$/vendor/nette/robot-loader" />
+      <path value="$PROJECT_DIR$/vendor/nette/routing" />
+      <path value="$PROJECT_DIR$/vendor/nette/tester" />
+      <path value="$PROJECT_DIR$/vendor/nette/di" />
+      <path value="$PROJECT_DIR$/vendor/nette/application" />
+      <path value="$PROJECT_DIR$/vendor/nette/database" />
+      <path value="$PROJECT_DIR$/vendor/nette/security" />
+      <path value="$PROJECT_DIR$/vendor/nette/caching" />
+      <path value="$PROJECT_DIR$/vendor/nette/php-generator" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/tracy/tracy" />
+      <path value="$PROJECT_DIR$/vendor/latte/latte" />
+      <path value="$PROJECT_DIR$/vendor/nette/forms" />
+      <path value="$PROJECT_DIR$/vendor/nette/component-model" />
+      <path value="$PROJECT_DIR$/vendor/nette/finder" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1YvV1xv768Mi1RN3dfQhZv0p460" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf0bf54e-6db4-444b-a653-7b32f49de33c" name="Default Changelist" comment="" />
+      <created>1583822843632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583822843632</updated>
+      <workItem from="1583822846219" duration="691000" />
+      <workItem from="1584426797901" duration="180000" />
+      <workItem from="1584426997450" duration="1646000" />
+      <workItem from="1584672698838" duration="3627000" />
+      <workItem from="1584768192215" duration="2168000" />
+      <workItem from="1584853310885" duration="3423000" />
+      <workItem from="1584856808558" duration="340000" />
+      <workItem from="1584937940209" duration="3138000" />
+      <workItem from="1585113572912" duration="1031000" />
+      <workItem from="1585206235760" duration="3691000" />
+      <workItem from="1585291879429" duration="2537000" />
+      <workItem from="1585438294684" duration="4863000" />
+      <workItem from="1585482122036" duration="3582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Composer" timestamp="1583822873766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Composer/0.0.1536.824@0.0.1536.824" timestamp="1583822873766" />
+    <state x="562" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1585484750516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585484750516" />
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585293808193">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1585293808193" />
+    <state x="486" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585208280755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="486" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1585208280755" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1584672906793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584672906793" />
+    <state x="549" y="227" key="NewPhpClassDialog" timestamp="1585484715016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="227" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1585484715016" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1584432795759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584432795759" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585482124094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585482124094" />
+  </component>
+</project>
