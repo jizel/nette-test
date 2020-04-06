@@ -24,13 +24,6 @@ services:
     networks:
       - test
   test.mysql:
-    image: mariadb:10.2
-    volumes:
-      - ./conf/mysql:/etc/mysql
-      - ./conf/mysql/init:/docker-entrypoint-initdb.d/
-      - ./conf/mysql/dumps:/dumps
-    environment:
-      - MYSQL_ROOT_PASSWORD=root
     networks:
       - test
     ports:
