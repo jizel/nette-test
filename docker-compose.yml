@@ -1,0 +1,13 @@
+version: '3'
+services:
+  mysql:
+    image: mariadb:10.2
+    volumes:
+      - ./conf/mysql:/etc/mysql
+      - ./conf/mysql/init:/docker-entrypoint-initdb.d/
+      - ./conf/mysql/dumps:/dumps
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE= db
+    ports:
+      - 3306:3306
