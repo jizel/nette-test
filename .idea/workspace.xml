@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf0bf54e-6db4-444b-a653-7b32f49de33c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bck_docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/mysql/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/mysql/conf.d/mariadb.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/mysql/conf.d/mysqld_safe_syslog.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/mysql/conf.d/tokudb.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/mysql/debian-start" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/mysql/debian.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/mysql/init/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/mysql/my.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/php/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Presenters/HomepagePresenter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Presenters/HomepagePresenter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dto/Drink.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/dto/Drink.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dto/Papos.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/dto/Papos.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dto/Polozka.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/dto/Polozka.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dto/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/dto/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +78,23 @@
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -100,11 +127,23 @@
       <workItem from="1586149770455" duration="1974000" />
       <workItem from="1586151786862" duration="1789000" />
       <workItem from="1586153645941" duration="1201000" />
+      <workItem from="1586155360112" duration="709000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
