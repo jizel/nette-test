@@ -16,4 +16,10 @@ class Drink extends Polozka
         $this->alko = $alko;
     }
 
+
+    public function getNazev(): string
+    {
+        return "Drink: " . $this->nazev;
+
+    }
 }

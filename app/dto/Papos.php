@@ -55,4 +55,13 @@ class Papos extends Polozka
     }
 
 
+    public function getNazev(): string
+    {
+        return "Papos: " . $this->nazev;
+    }
+
+    public function setCenaCZK(int $cenaCZK): void
+    {
+        parent::setCenaCZK($cenaCZK + 1);
+    }
 }

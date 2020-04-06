@@ -12,6 +12,16 @@ class User
     private int $penizky;
 
 
+//    public function __construct($jmeno, $vek, $papos, $drink)
+//    {
+//        $this->jmeno=$jmeno;
+//        $this->vek=$vek;
+//        $this->papos=$papos;
+//        $this->drink=$drink;
+//        $this->isActive=true;
+//
+//    }
+
     public function getPenizky(): int
     {
         return $this->penizky;
@@ -47,17 +57,17 @@ class User
     }
 
 
-    public function getJmeno ()
+    public function getJmeno()
     {
         return $this->jmeno;
     }
 
-    public function getVek ()
+    public function getVek()
     {
         return $this->vek;
     }
 
-    public function setJmeno ($jmeno): void
+    public function setJmeno($jmeno): void
     {
         $this->jmeno = $jmeno;
     }
@@ -76,7 +86,6 @@ class User
     {
         $this->isActive = $isActive;
     }
-
 
 
 }
